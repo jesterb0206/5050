@@ -11,6 +11,78 @@
 
 <br>
 
+## Description
+
+<br>
+
+## Table of Contents
+
+<br>
+
+- [50 Projects In 50 Days - HTML, CSS, and JavaScript](#50-projects-in-50-days---html-css-and-javascript)
+  - [License](#license)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Deployment Links](#deployment-links)
+    - [1. Expanding Cards](#1-expanding-cards)
+    - [2. Progress Steps](#2-progress-steps)
+    - [3. Rotating Navigation Animation](#3-rotating-navigation-animation)
+    - [4. Hidden Search Widget](#4-hidden-search-widget)
+    - [5. Blurry Loading](#5-blurry-loading)
+    - [6. Scroll Animation](#6-scroll-animation)
+    - [7. Split Landing Page](#7-split-landing-page)
+    - [8. Form Wave](#8-form-wave)
+    - [9. Sound Board](#9-sound-board)
+    - [10. Dad Jokes](#10-dad-jokes)
+    - [11. Event Keycodes](#11-event-keycodes)
+    - [12. Faq Collapse](#12-faq-collapse)
+    - [13. Random Choice Picker](#13-random-choice-picker)
+    - [14. Animated Navigation](#14-animated-navigation)
+    - [15. Incrementing Counter](#15-incrementing-counter)
+    - [16. Drink Water](#16-drink-water)
+    - [17. Movie App](#17-movie-app)
+    - [18. Background Slider](#18-background-slider)
+    - [19. Theme Clock](#19-theme-clock)
+    - [20. Button Ripple Effect](#20-button-ripple-effect)
+    - [21. Drag N Drop](#21-drag-n-drop)
+    - [22. Drawing App](#22-drawing-app)
+    - [23. Kinetic Loader](#23-kinetic-loader)
+    - [24. Content Placeholder](#24-content-placeholder)
+    - [25. Sticky Navbar](#25-sticky-navbar)
+    - [26. Double Vertical Slider](#26-double-vertical-slider)
+    - [27. Toast Notification](#27-toast-notification)
+    - [28. Github Profiles](#28-github-profiles)
+    - [29. Double Click Heart](#29-double-click-heart)
+    - [30. Auto Text Effect](#30-auto-text-effect)
+    - [31. Password Generator](#31-password-generator)
+    - [32. Good Cheap Fast](#32-good-cheap-fast)
+    - [33. Notes App](#33-notes-app)
+    - [34. Animated Countdown](#34-animated-countdown)
+    - [35. Image Carousel](#35-image-carousel)
+    - [36. Hoverboard](#36-hoverboard)
+    - [37. Pokedex](#37-pokedex)
+    - [38. Mobile Tab Navigation](#38-mobile-tab-navigation)
+    - [39. Password Strength Background](#39-password-strength-background)
+    - [40. 3d Background Boxes](#40-3d-background-boxes)
+    - [41. Verify Account UI](#41-verify-account-ui)
+    - [42. Live User Filter](#42-live-user-filter)
+    - [43. Feedback UI Design](#43-feedback-ui-design)
+    - [44. Custom Range Slider](#44-custom-range-slider)
+    - [45. Netflix Mobile Navigation](#45-netflix-mobile-navigation)
+    - [46. Quiz App](#46-quiz-app)
+    - [47. Testimonial Box Switcher](#47-testimonial-box-switcher)
+    - [48. Random Image Feed](#48-random-image-feed)
+    - [49. Todo List](#49-todo-list)
+    - [50. Insect Catch Game](#50-insect-catch-game)
+  - [Badges](#badges)
+  - [Questions](#questions)
+    - [GitHub](#github)
+    - [Email](#email)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+<br>
+
 ## Deployment Links
 
 <br>
@@ -212,5 +284,21 @@
 <br>
 
 ### 50. Insect Catch Game
+
+<br>
+
+## Badges
+
+<br>
+
+## Questions
+
+<br>
+
+### GitHub
+
+<br>
+
+### Email
 
 <br>
