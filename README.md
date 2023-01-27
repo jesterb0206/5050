@@ -15,6 +15,24 @@
 
 <br>
 
+From Brad Traversy and Florin Pop's course description:
+
+"This is a purely project-based course. It is geared toward beginners, but intermediate developers can also enjoy creating new things. This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model). Many people jump into a frontend framework too early. Learning vanilla JavaScript and understanding how the document object model works are essential before moving to a framework. This course teaches you this by creating real-world projects of all types. You will also learn more about HTML5 and CSS including semantic tags in your markup, basic CSS properties such as colors, alignment, flexbox, and shadows as well as creating responsive layouts with CSS media queries, CSS custom properties, animations/transitions, and more."
+
+<br>
+
+I'm using this repository as a space to share links to each of the mini projects' source code and deployments.
+
+<br>
+
+[Click on the link here to browse the course on Udemy](https://www.udemy.com/course/50-projects-50-days/?src=sac&kw=50+Projects+In+50+Days)
+
+<br>
+
+**Note, I'm not sponsored or affiliated with the course creators or Udemy, I'm simply a student of this course!**
+
+<br>
+
 ## Table of Contents
 
 <br>
