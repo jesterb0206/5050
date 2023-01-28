@@ -141,6 +141,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Rotating Navigation](/images/rotating-navigation.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Rotating-Navigation/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 4. Hidden Search Widget
 
 <br>
