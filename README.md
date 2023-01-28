@@ -125,6 +125,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Progress Steps](/images/progress-steps.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Progress-Steps/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 3. Rotating Navigation Animation
 
 <br>
