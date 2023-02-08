@@ -157,6 +157,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Hidden Search Widget](images/hidden-search-widget.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/hidden-search-widget/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 5. Blurry Loading
 
 <br>
