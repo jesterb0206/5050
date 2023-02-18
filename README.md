@@ -205,6 +205,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Split Landing Page](images/split-landing-page.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Split-Landing-Page/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 8. Form Wave
 
 <br>
