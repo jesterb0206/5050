@@ -189,6 +189,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Scroll Animation](images/scroll-animation.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Scroll-Animation/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 7. Split Landing Page
 
 <br>
