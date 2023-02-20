@@ -221,6 +221,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Form Wave Animation](images/form-wave-animation.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Form-Wave-Animation/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 9. Sound Board
 
 <br>
