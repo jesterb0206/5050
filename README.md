@@ -253,6 +253,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Dad Jokes](images/dad-jokes.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Dad-Jokes/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 11. Event Keycodes
 
 <br>
