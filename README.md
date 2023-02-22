@@ -285,7 +285,7 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
-![FAQ Collapse](images/FAQ-Collapse.png)
+![FAQ Collapse](images/faq-collapse.png)
 
 <br>
 
