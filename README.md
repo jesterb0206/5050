@@ -285,6 +285,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![FAQ Collapse](images/FAQ-Collapse.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/FAQ-Collapse/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 13. Random Choice Picker
 
 <br>
