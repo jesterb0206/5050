@@ -301,6 +301,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Random Choice Picker](images/random-choice-picker.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Random-Choice-Picker/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 14. Animated Navigation
 
 <br>
