@@ -397,6 +397,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Theme Clock](images/theme-clock.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Theme-Clock/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 20. Button Ripple Effect
 
 <br>
