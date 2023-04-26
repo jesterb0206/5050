@@ -461,6 +461,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Kinetic Loader](images/kinetic-loader.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Kinetic-Loader/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 24. Content Placeholder
 
 <br>
