@@ -477,6 +477,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Content Placeholder](images/content-placeholder.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Content-Placeholder/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 25. Sticky Navbar
 
 <br>
