@@ -493,6 +493,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Sticky Navigation](images/sticky-navigation.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Sticky-Navigation/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 26. Double Vertical Slider
 
 <br>
