@@ -509,6 +509,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Double Vertical Slider](images/double-vertical-slider.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Double-Vertical-Slider/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 27. Toast Notification
 
 <br>
