@@ -541,6 +541,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![GitHub Profiles](images/GitHub-Profiles.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/GitHub-Profiles/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 29. Double Click Heart
 
 <br>
