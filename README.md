@@ -525,6 +525,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Toast Notification](images/toast-notification.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Toast-Notification/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 28. Github Profiles
 
 <br>
