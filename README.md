@@ -557,6 +557,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Double Heart Click](images/double-click-heart.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Double-Heart-Click/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 30. Auto Text Effect
 
 <br>
