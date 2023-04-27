@@ -573,6 +573,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Auto Text Effect](images/auto-text-effect.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Auto-Text-Effect/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 31. Password Generator
 
 <br>
