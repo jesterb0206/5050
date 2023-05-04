@@ -653,6 +653,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Image Carousel](images/image-carousel.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Image-Carousel/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 36. Hoverboard
 
 <br>
