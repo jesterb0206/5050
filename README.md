@@ -621,6 +621,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Notes App](images/notes-app.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Notes-App/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 34. Animated Countdown
 
 <br>
