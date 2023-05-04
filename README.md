@@ -637,6 +637,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Animated Countdown](images/animated-countdown.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Animated-Countdown/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 35. Image Carousel
 
 <br>
