@@ -685,6 +685,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Pokedex](images/pokedex.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Pokedex/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 38. Mobile Tab Navigation
 
 <br>
