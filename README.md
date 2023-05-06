@@ -765,6 +765,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Live User Filter](images/live-user-filter.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Live-User-Filter/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 43. Feedback UI Design
 
 <br>
