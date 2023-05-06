@@ -717,6 +717,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Password Strength Background](images/password-strength-background.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Password-Strength-Background/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 40. 3d Background Boxes
 
 <br>
