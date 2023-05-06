@@ -749,6 +749,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Verify Account UI](images/Verify-Account-UI.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Verify-Account-UI/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 42. Live User Filter
 
 <br>
