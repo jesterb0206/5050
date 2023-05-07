@@ -781,6 +781,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Feedback UI Design](images/Feedback-UI-Design.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Feedback-UI-Design/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 44. Custom Range Slider
 
 <br>
