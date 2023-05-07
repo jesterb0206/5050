@@ -797,6 +797,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Custom Range Slider](images/custom-range-slider.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Custom-Range-Slider/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 45. Netflix Mobile Navigation
 
 <br>
