@@ -877,6 +877,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Todo List](images/Todo-List.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Todo-List/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 50. Insect Catch Game
 
 <br>
