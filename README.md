@@ -845,6 +845,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Testimonial Box Switcher](images/testimonial-box-switcher.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Testimonial-Box-Switcher/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ### 48. Random Image Feed
 
 <br>
