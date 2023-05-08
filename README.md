@@ -893,6 +893,18 @@ I'm using this repository as a space to share links to each of the mini projects
 
 <br>
 
+![Insect Catch Game](images/insect-catch-game.png)
+
+<br>
+
+[Deployment](https://jesterb0206.github.io/Insect-Catch-Game/)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
 ## Badges
 
 <br>
